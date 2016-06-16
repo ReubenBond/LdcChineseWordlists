@@ -1,0 +1,38 @@
+
+CEDICT LICENCE STATEMENT
+
+Copyright (C) 1999, Linguistic Data Consortium and 
+Portions Copyright (C) 1997, 1998 Paul Andrew Denisowski
+
+This  license  statement  and  copyright  notice   applies   to   the
+Chinese-English Bilingual word lists. These lists are
+based in part on the CEDICT Chinese/English   Dictionary   file.
+
+COPYING AND DISTRIBUTION 
+
+Permission is granted to make and distribute verbatim copies of the Chinese-English Bilingual word lists 
+provided  this copyright notice and permission notice and the CEDICT
+copyright notice and permission notice are distributed with all 
+copies.  Any distribution of the files must take place  without  a  financial 
+return, except a charge to cover the cost of the distribution medium. 
+
+Permission is granted to make and distribute extracts or subsets of the Chinese-English Bilingual word lists under the same conditions applying to verbatim copies. 
+
+Permission  is  granted  to  translate the English elements of the
+Chinese-English Bilingual word lists into other languages, and to make and distribute copies of those translations under the same conditions applying to verbatim copies. 
+
+USAGE 
+
+These files may be freely  used  by  individuals,  and  may  be  accessed  by 
+software belonging to, or operated by, such individuals. 
+
+The files, extracts from the files, and translations of the files must not be 
+sold  as  part  of  any  commercial  software  package,   nor  must  they  be 
+incorporated in any published dictionary or other  printed  document  without 
+the specific permission of the copyright holders. 
+
+COPYRIGHT 
+
+Copyright  over  the  documents  covered  by  this statement is held by the
+Linguistic Data Consortium and Paul Denisowski.
+
